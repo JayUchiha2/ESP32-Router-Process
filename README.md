@@ -1,12 +1,12 @@
 # ESP32-Router-Process
-Hackerzzzz
+We setting up Hoolio
 
 # Name of project
 ESP32 NAT Router
 
 
 ## purpose
-Create a ESP32
+Create a router using the esp32
  
 
 ## Equipment
