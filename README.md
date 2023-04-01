@@ -28,5 +28,5 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 # The Journey
-
+Using windows I acquired the flash tool from Github to install on my ESP-32 device. I made sure to choose the ESP-32 option in the SPI download making sure thats not a discrepancy I needed to add  
 ## The Problems
