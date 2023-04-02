@@ -28,5 +28,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 # The Journey
-Using windows I acquired the flash tool from Github to install on my ESP-32 device. I made sure to choose the ESP-32 option in the SPI download making sure thats not a discrepancy I needed to add. after that i added 3 files needed for the ESP-32 in the slots to turn into a router. After doing that 
+Using windows I acquired the flash tool from Github to install on my ESP-32 device. I made sure to choose the ESP-32 option in the SPI download making sure thats not a discrepancy I needed to add. after that i added 3 files needed for the ESP-32 in the slots to turn into a router. After that i typed in 192.168.4.1 to reach the website that i made "Hoolio" the wifi name piggy backing off of a hotspot or wifi that is not picky on other ips joining. After that you should have a sucessful router.
 ## The Problems
+I definetly had issues With the SPI download. The dots wasnt working at first to imput the 3 files needed. but after multiple tries i decided to work. I just assumed that I put the poert numbers wrong.
